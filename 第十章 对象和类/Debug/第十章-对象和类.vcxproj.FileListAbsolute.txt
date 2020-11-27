@@ -1,0 +1,4 @@
+D:\C++\08-C++ prime plus\第十章-对象和类\Debug\第十章-对象和类.exe
+D:\C++\08-C++ prime plus\第十章-对象和类\Debug\第十章-对象和类.pdb
+D:\Git Data\Cplusplus-Primer-Plus\第十章 对象和类\Debug\第十章-对象和类.exe
+D:\Git Data\Cplusplus-Primer-Plus\第十章 对象和类\Debug\第十章-对象和类.pdb
