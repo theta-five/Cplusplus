@@ -1,0 +1,2 @@
+D:\C++\08-C++ prime plus\wine\Debug\wine.exe
+D:\C++\08-C++ prime plus\wine\Debug\wine.pdb
